@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Team Negri
 
 You can use the [editor on GitHub](https://github.com/lucifermorning9w74/teamnegri/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
